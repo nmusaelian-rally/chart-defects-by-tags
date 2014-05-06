@@ -246,7 +246,7 @@
                 series:[
                     {
                        type: 'column',
-                       name: 'Tags',
+                       name: 'Defects',
                        data: this._data
                     }
                     
