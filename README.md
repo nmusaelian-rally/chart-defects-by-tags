@@ -6,7 +6,7 @@ Select tags and click GetDefects button. The button is hidden by the dropdown on
 ![](pic1.png)
 
 A grid and chart load:
-![](pic1.png)
+![](pic2.png)
 
 This app is available on AS IS basis. It is not supported by Rally support.
 ## License
